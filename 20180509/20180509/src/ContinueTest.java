@@ -1,0 +1,16 @@
+public class ContinueTest {
+	public static void main(String[] args) {
+		String s = "Happy Birthday";
+		int n = 0, y = 0;
+		for(int i=0; i<s.length(); i++) {
+			//n이 나오는 횟수를 센다.
+			if(s.charAt(i) !='p') //n이 아닐떄
+				continue;
+			//n의 개수를 하나 증가한다.
+			n++;
+		}
+		System.out.println("문장에서 발견된 p의 개수 "+ n);
+		y = s.length();
+		System.out.println(y);
+	}
+}

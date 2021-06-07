@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Score2Gradle {
+	public static void main(String[] args) {
+		int score, number;
+		char grade;
+		Scanner scan = new Scanner(System.in);
+		System.out.print("성적을 입력하시오: ");
+        score = scan.nextInt();
+        number = score/10;
+        switch(number) {
+        case 10:
+        }
+	}
+
+}

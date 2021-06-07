@@ -1,0 +1,10 @@
+
+public class Constant {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        final double KM_PER_MILE = 1.609344;
+        do
+	}
+
+}

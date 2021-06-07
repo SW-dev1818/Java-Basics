@@ -1,0 +1,12 @@
+
+public class DaysInMonth {
+
+	public static void main(String[] args) {
+		int month;
+		int days = 0;
+		System.out.print("알고 싶은 월 입력: ");
+		Scanner scan = new Scanner(System.in);
+
+	}
+
+}

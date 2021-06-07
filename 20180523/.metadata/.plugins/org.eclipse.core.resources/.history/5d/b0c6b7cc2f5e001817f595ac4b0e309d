@@ -1,0 +1,11 @@
+public class Arrays {
+	public static void main(String[] args) {
+		int[] numbers = {50, 40, 30, 20, 10};
+		System.out.println(Arrays.toString(numbers));
+	}
+
+	private static char[] toString(int[] numbers) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

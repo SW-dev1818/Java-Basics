@@ -1,0 +1,10 @@
+public class DayInMonth2 {
+	public static void main(String[] args) {
+		int month;
+		int days = 0;
+		int year;
+		Scanner scan = New Scanner(System.in);
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class TypeError {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        float temperature = 10.3F
+        char ch1 = '°¡';
+        
+	}
+
+}

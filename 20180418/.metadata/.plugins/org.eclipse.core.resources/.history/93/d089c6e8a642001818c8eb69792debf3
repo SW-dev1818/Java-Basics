@@ -1,0 +1,31 @@
+import java.util.Scanner;
+public class DayInMonth2 {
+	public static void main(String[] args) {
+		int month;
+		int days = 0;
+		int year;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("년도를 입력하세요: ");
+		year = scan.nextInt();
+		System.out.println("알고 싶은 월: ");
+		month = scan.nextInt();
+		switch (month) {
+		case 4:
+		case 6:
+		case 9:
+		case 11:
+			days = 30;
+			break;
+		case 2:
+			if((year%4==0&&year%100!=0)||year%400==0) {
+				days = 29;
+			}else {
+				System.out.println(year+"년은 평년");
+			}
+
+		default:
+			break;
+		}
+	}
+
+}

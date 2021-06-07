@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class DayInMonth2 {
+	public static void main(String[] args) {
+		int month;
+		int days = 0;
+		int year;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("년도를 입력하세요: ");
+		year = scan.nextInt();
+		System.out.println("알고 싶은 월: ");
+		month = scan.nextInt();
+	}
+
+}

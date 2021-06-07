@@ -1,0 +1,15 @@
+
+public class CalSum2{
+
+	public static void main(String[] args) {
+		int i = 1;
+		int sum = 0;
+		Scanner sc = new Scanner(System.in);
+		while(i<=10) {
+			sum = sum + i;
+			i++;
+		}
+		System.out.print("гу╟Х="+sum);
+	}
+
+}

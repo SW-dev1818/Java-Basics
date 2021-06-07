@@ -1,0 +1,17 @@
+public class Arrays02 {
+	public static void main(String[] args) {
+		
+		int[] b = new int[11];
+		b[0] = 이예지;
+		b[1] = 안진수;
+		b[2] = 형성원;
+		b[3] = 이효제;
+		b[4] = 이승민;
+		b[5] = 백두산;
+		b[6] = 최성영;
+		b[7] = 이소민;
+		b[8] = 윤찬수;
+		b[9] = 이윤임;
+		b[10] = 김효정;
+	}
+}

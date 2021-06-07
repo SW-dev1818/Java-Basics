@@ -1,0 +1,21 @@
+
+public class Test {
+
+	public static void main(String[] args) 
+
+	{
+		long fact=1;
+		int n;
+		System.out.print("*");
+		Scanner scan = new Scanner(System.in);
+		for(int x=1; x<=n; x++) {
+						fact=fact*1;
+					}
+				}
+			
+			
+		}
+
+	
+
+

@@ -1,0 +1,6 @@
+public class LoopExample2 {
+	public static void main(String[] args) {
+		int n;
+		int i = 1;
+	}
+}

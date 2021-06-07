@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class CalSum2 {
+	public static void main(String[] args) {
+		System.out.print("누적으로 더하고 싶은 값을 입력하시오: ");
+		Scanner scan = new Scanner(System.in);
+		int i = 1;
+		int sum = 0;
+		while(i<=10) {
+			i= scan.nextInt();
+			sum = sum+i;
+			i++;
+		}
+		System.out.println("합계="+sum);
+	}
+}

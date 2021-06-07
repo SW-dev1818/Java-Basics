@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class LoopExample2 {
+	public static void main(String[] args) {
+		int n;
+		int i = 1;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("구구단 중에서 출력하고 싶은 단을 입력하세요: ");
+		n = scan.nextInt();
+		while(i<=19); {
+			System.out.println(n+"*"+i+"="+n*i+" "); //ln으로 입력 시에는 공백 남길 필요 없음.
+			i++;
+		}
+		scan.close();
+	}
+}

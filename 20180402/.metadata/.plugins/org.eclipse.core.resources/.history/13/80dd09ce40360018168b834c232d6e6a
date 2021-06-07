@@ -1,0 +1,10 @@
+public class Larger {
+	public static void main(String[] args) {
+		int x, y, max;
+		Scanner input = new Scanner(System.in);
+		System.out.println("첫 번째 정수: ");
+
+
+	}
+
+}

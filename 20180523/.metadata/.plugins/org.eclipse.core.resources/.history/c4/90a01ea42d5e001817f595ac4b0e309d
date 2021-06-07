@@ -1,0 +1,13 @@
+import java.util.Random;
+public class Cong {
+	public static void main(String[] args) {
+		String[] events = {"이예지", "안진수", "형성원", "이효제", "이승민",
+				"백두산", "최성영", "이소민", "윤찬수", "이윤임", "김효정"};
+		Random sort = new Random();
+		int number = sort.nextInt(10);
+		System.out.println("축하합니다. 당첨자: "+events[number]);
+		for(int i=0; i<events.length; i++) {
+			System.out.println("events"+"["+i+"]"+"="+events[i]);
+		}
+	}
+}

@@ -1,0 +1,7 @@
+public class BoxTest {
+	public static void main(String[] args) {
+		Box b;
+		b = new Box();
+		b.width = 20;
+	}
+}

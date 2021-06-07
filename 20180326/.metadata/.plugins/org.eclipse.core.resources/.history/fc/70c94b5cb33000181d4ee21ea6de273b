@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class ScannerEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("이름, 도시, 나이, 독신여부를 빈칸으로 분리하여 입력하시오.");
+        //System.in 사용자가 입력한 값이라는 의미를 가졌음
+        Scanner scanner = new Scanner (System.in);
+	}
+
+}

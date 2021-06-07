@@ -1,0 +1,5 @@
+자바 연산 처리시 유의점: https://m.blog.naver.com/jinkind/50182975177
+
+자바에서 실수값 연산을 할떄: https://m.kin.naver.com/mobile/qna/detail.nhn?d1id=1&dirId=1040201&docId=143737894&qb=7J6Q67CUIGRvdWJsZSDsl7DsgrA=&enc=utf8%A1%D7ion=kin&rank=2&search_sort=0&spq=0
+
+진도: 당첨자 발표 실습, 09_자바기초 1~15

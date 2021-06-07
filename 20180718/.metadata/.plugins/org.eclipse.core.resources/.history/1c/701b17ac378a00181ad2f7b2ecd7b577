@@ -1,0 +1,11 @@
+public class Car {
+	String color;
+	int speed;
+	int gear;
+	
+	@Override
+	public String toString() {
+		return "Car [color=" + color + ", speed=" + speed + ", gear=" +
+				gear + "]";
+	}
+}

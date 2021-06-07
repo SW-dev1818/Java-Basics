@@ -1,0 +1,12 @@
+
+public class Add2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int x;  //첫 번째 숫자 저장할 변수
+        int y;  //두 번째 숫자를 저장할 변수
+        int sum;  //합을 저장
+        
+	}
+
+}

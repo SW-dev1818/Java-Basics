@@ -1,0 +1,11 @@
+public class LuckyDay {
+	public static void main(String[] args) {
+		int[] s = new int[10];
+		for(int x = 0; x<s.length; x++) {
+			s[x] = x;
+		}
+		for(int x = 0; x<s.length; x++) {
+			System.out.print(s[x] + " ");
+		}
+	}
+}

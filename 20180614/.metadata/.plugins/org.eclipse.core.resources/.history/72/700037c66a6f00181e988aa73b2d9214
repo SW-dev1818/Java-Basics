@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class TelevisionTest {
+	public static void main(String[] args) {
+		int wantch;
+		Television tv = new Television();
+		Scanner scan = new Scanner(System.in);
+		System.out.println("원하는 채널을 선택하세요: ");
+		wantch = scan.nextInt();
+	}
+}

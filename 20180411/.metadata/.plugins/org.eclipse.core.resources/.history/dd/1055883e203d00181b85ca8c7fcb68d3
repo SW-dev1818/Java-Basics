@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class Choice {
+	public static void main(String[] args) {
+		int number;
+		Scanner input = new Scanner(System.in);			
+	}
+
+}

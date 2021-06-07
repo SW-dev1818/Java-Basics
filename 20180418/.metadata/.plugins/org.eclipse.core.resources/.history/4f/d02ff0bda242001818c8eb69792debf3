@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Month {
+	public static void main(String[] args) {
+		int month;
+		System.out.print("연도를 입력하세요: ");
+		System.out.print("알고 싶은 월을 입력하세요: ");
+		Scanner sc = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);
+		month = scan.nextInt();
+		int year = sc.nextInt();
+		
+	}
+}

@@ -1,0 +1,14 @@
+
+public class Light {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        long lightSpeed;
+        long distance;
+        
+        lightSpeed = 300000;
+        distance = lightSpeed * 356L * 24 * 60 * 60;
+        
+	}
+
+}

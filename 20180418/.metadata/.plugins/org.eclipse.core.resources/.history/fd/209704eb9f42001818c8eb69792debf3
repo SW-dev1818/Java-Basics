@@ -1,0 +1,6 @@
+public class LeapYearCheck {
+	public static void main(String[] args) {
+		System.out.print("연도를 입력하세요: ");
+		
+	}
+}
